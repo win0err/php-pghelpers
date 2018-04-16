@@ -1,0 +1,25 @@
+{
+    "name": "win0err/pghelpers",
+    "description": "A set of helper functions in PHP for working with PostgreSQL",
+    "type": "library",
+    "license": "MIT",
+    "homepage": "https://github.com/win0err/php-pghelpers",
+    "keywords": [
+    	"PHP",
+    	"postgres",
+    	"PostgreSQL",
+    	"pg_array_parse"
+    ],
+    "authors": [
+        {
+            "name": "Sergei Kolesnikov",
+            "email": "win0err@gmail.com"
+        }
+    ],
+    "require": {
+    	"ext-pgsql": "*"
+    },
+    "autoload": {
+    	"files": ["src/pg_array_parse.php"]
+    }
+}
