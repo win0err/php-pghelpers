@@ -1,4 +1,6 @@
-# PostgreSQL PHP Helpers 
+# PostgreSQL PHP Helpers
+[![Latest Stable Version](https://img.shields.io/packagist/v/win0err/pghelpers.svg?style=flat-square)](https://packagist.org/packages/win0err/pghelpers)
+ 
 
 A set of helper functions in PHP for working with PostgreSQL
 
